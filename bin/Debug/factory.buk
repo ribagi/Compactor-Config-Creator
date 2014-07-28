@@ -1,0 +1,24 @@
+  Nether_Craft_Vines:
+    name: Craft Crate of Vines
+    inputs: 
+         material: VINE
+         amount: 2048
+    outputs: 
+       Crate of Vines:
+         material: WOOD
+         durability: 0
+         amount: 32
+         display_name: Crate of Vines
+         lore: Crate of Vines
+  Nether_Craft_Stone:
+    name: Craft Crate of Stone
+    inputs: 
+         material: STONE
+         amount: 2048
+    outputs: 
+       Crate of Stone:
+         material: WOOD
+         durability: 0
+         amount: 32
+         display_name: Crate of Stone
+         lore: Crate of Stone
