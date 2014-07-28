@@ -7,8 +7,8 @@
     <ProjectGuid>{5B0A9D33-06C6-47D1-BD40-BE8767F996C5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ConsoleApplication1</RootNamespace>
-    <AssemblyName>ConsoleApplication1</AssemblyName>
+    <RootNamespace>CompactorConfigCreator</RootNamespace>
+    <AssemblyName>Compactor Config Creator</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

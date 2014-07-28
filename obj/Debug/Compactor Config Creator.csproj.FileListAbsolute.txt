@@ -1,3 +1,9 @@
 C:\Users\Gabe\documents\visual studio 2013\Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\Gabe\documents\visual studio 2013\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Gabe\documents\visual studio 2013\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Gabe\Desktop\C#\Compactor-Config-Creator\obj\Debug\Compactor Config Creator.csprojResolveAssemblyReference.cache
+C:\Users\Gabe\Desktop\C#\Compactor-Config-Creator\bin\Debug\Compactor Config Creator.exe.config
+C:\Users\Gabe\Desktop\C#\Compactor-Config-Creator\bin\Debug\Compactor Config Creator.exe
+C:\Users\Gabe\Desktop\C#\Compactor-Config-Creator\bin\Debug\Compactor Config Creator.pdb
+C:\Users\Gabe\Desktop\C#\Compactor-Config-Creator\obj\Debug\Compactor Config Creator.exe
+C:\Users\Gabe\Desktop\C#\Compactor-Config-Creator\obj\Debug\Compactor Config Creator.pdb
